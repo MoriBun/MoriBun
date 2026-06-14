@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Hoang 👋
 
-<!--
-**MoriBun/MoriBun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics and Computer Science
 
-Here are some ideas to get you started:
+🤖 Aspiring AI Engineer interested in:
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- Python
+- Java
+- Spring Boot
+- PyTorch
+- Machine Learning
+- Git & GitHub
+
+🌱 Currently learning:
+- Agentic AI Systems
+- MCP (Model Context Protocol)
+- Vector Databases
+- Fine-tuning & QLoRA
