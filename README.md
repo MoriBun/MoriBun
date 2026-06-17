@@ -11,7 +11,6 @@
 💻 Tech Stack:
 - Python
 - Java
-- Spring Boot
 - PyTorch
 - Machine Learning
 - Git & GitHub
@@ -21,3 +20,5 @@
 - MCP (Model Context Protocol)
 - Vector Databases
 - Fine-tuning & QLoRA
+- Statistical Learning
+- MLOps
