@@ -17,7 +17,6 @@
 
 🌱 Currently learning:
 - Agentic AI Systems
-- MCP (Model Context Protocol)
 - Vector Databases
 - Fine-tuning & QLoRA
 - Statistical Learning
