@@ -24,7 +24,6 @@
 
   <img width="735" height="537" alt="0bcbfa56936d55ce376b96fde55ba6af" src="https://github.com/user-attachments/assets/82431d7b-747e-476a-8082-6aaa41bff4ed" />
 
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoriBun/MoriBun/output/github-snake-dark.svg" />
