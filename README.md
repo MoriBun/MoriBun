@@ -8,14 +8,15 @@
 
 🌱 **Currently Learning:** Agentic AI Systems • Vector Databases • Fine-tuning & QLoRA • Statistical Learning • MLOps
 
-📫 <strong>Contact:</strong>
-
-<a href="mailto:nhhoanghus04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hoang-nguyen-hu-873529252">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  📫 <strong>Contact:</strong>
+  <a href="mailto:nhhoanghus04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hoang-nguyen-hu-873529252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img
