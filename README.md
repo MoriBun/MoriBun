@@ -8,6 +8,8 @@
 
 🌱 **Currently Learning:** Agentic AI Systems • Vector Databases • Fine-tuning & QLoRA • Statistical Learning • MLOps
 
+📫 **Contact**
+
 <p align="left">
   <a href="mailto:nhhoanghus04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
